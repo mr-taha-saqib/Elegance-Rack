@@ -50,16 +50,11 @@ This project implements core e-commerce functionalities while addressing key req
 Below are some screenshots of the Elegance Rack application showcasing the user interface:
 
 ![Homepage](./assets/11.png)  
-Homepage with featured products and categories
 
 ![Product Listing](./assets/22.png)  
-Product listing with filters and sorting
 
 ![Product Details](./assets/33.png)  
-Detailed product view with image, description, and reviews
 
 ![Shopping Cart](./assets/44.png)  
-Shopping cart with item summary and total price
 
 ![Admin Panel](./assets/55.png)  
-Admin dashboard for managing products and orders
