@@ -1,7 +1,5 @@
 # Elegance Rack Online Clothing Store
 
-## Project Scope
-
 ### 1. Roll Numbers & Student Names
 - *Mateen Abid* (21L-6240)  
 - *Taha Saqib* (21L-5673)
