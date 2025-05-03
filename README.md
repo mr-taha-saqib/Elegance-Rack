@@ -56,5 +56,3 @@ Below are some screenshots of the Elegance Rack application showcasing the user 
 ![Product Details](./assets/33.png)  
 
 ![Shopping Cart](./assets/44.png)  
-
-![Admin Panel](./assets/55.png)  
