@@ -49,7 +49,7 @@ Below are some screenshots of the Elegance Rack application showcasing the user 
 
 ![Homepage](./assets/11.png)  
 
-![Product Listing](./assets/22.png)  
+![Product Listing](./assets/111.png)  
 
 ![Product Details](./assets/33.png)  
 
